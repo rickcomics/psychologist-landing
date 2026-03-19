@@ -1,0 +1,24 @@
+<svg width="1280" height="640" viewBox="0 0 1280 640" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f1f5f9"/>
+      <stop offset="100%" stop-color="#e2e8f0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="640" fill="url(#grad)"/>
+  
+  <text x="640" y="260" text-anchor="middle" font-family="Inter, sans-serif"
+        font-size="64" fill="#0f172a" font-weight="300">
+    Psychologist Landing
+  </text>
+
+  <text x="640" y="340" text-anchor="middle" font-family="Inter, sans-serif"
+        font-size="32" fill="#475569" font-weight="300">
+    Премиальный лендинг психолога
+  </text>
+
+  <text x="640" y="400" text-anchor="middle" font-family="Inter, sans-serif"
+        font-size="24" fill="#64748b" font-weight="300">
+    Next.js · Tailwind · Supabase · Make · Vercel
+  </text>
+</svg>
