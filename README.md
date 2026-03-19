@@ -101,9 +101,11 @@ styles/
 
 Deploy
 
+
 ## 🎥 Demo Video
 
-[![Watch the video](https://cdn.loom.com/sessions/thumbnails/b95016e30d354cf89153a2ed1727ca6a-with-play.gif)](https://www.loom.com/share/b95016e30d354cf89153a2ed1727ca6a)
+[![Watch the video](https://cdn.loom.com/sessions/thumbnails/b95016e30d354cf89153a2ed1727ca6a-e131924164cd3a08-full-play.gif)](https://www.loom.com/share/b95016e30d354cf89153a2ed1727ca6a)
+
 
 
 📄 Лицензия
