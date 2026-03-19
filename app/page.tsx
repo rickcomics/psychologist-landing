@@ -14,7 +14,7 @@ export default function HomePage() {
     document.body.classList.add('fade-in');
   }, []);
 
-  async function handleSubmit(e: React.FormEvent) {
+  async function handleSubmit(e: React.FormEvent<HTMLFormElement>) {
     e.preventDefault();
     setStatus('loading');
 
