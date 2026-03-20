@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: 'Психологическая помощь — индивидуальные консультации онлайн и очно',
   description:
     'Премиальный психологический приём: работа с тревогой, выгоранием, самооценкой и отношениями. Спокойная, безопасная атмосфера. Онлайн и очно.',
-  metadataBase: new URL('https://psychologist-landing.vercel.app'), // замени на свой домен
+  metadataBase: new URL('https://psychologist-landing-rouge.vercel.app/'), // замени на свой домен
   keywords: [
     'психолог',
     'психолог онлайн',
@@ -21,13 +21,13 @@ export const metadata: Metadata = {
     title: 'Психологическая помощь — индивидуальные консультации',
     description:
       'Индивидуальные консультации в спокойной и безопасной атмосфере. Работа с тревогой, выгоранием и отношениями.',
-    url: 'https://psychologist-landing.vercel.app', // замени на свой домен
+    url: 'https://psychologist-landing-rouge.vercel.app/', // замени на свой домен
     siteName: 'Психологическая практика',
     type: 'website',
     locale: 'ru_RU',
     images: [
       {
-        url: '/og-image.jpg', // можешь позже добавить отдельную картинку
+        url: '/og-image.png', // можешь позже добавить отдельную картинку
         width: 1200,
         height: 630,
         alt: 'Психологическая помощь',
